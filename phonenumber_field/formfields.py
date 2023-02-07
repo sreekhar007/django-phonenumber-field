@@ -1,4 +1,4 @@
-import phonenumbers
+import phonenumber
 from django.conf import settings
 from django.core import validators
 from django.core.exceptions import ValidationError
